@@ -22,5 +22,6 @@ Matplotlib & Seaborn: Data visualization and plotting.
 Power BI: Interactive business intelligence reporting.
 
 How to Use
+
 Python Analysis: Open the provided project notes or Jupyter notebook to see the step-by-step code for importing the dataset, calculating metrics, and generating plots.
 Power BI: Open the .pbix file in Power BI Desktop to explore the interactive dashboard.

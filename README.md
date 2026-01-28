@@ -51,5 +51,5 @@ The interactive dashboard serves as a front-end for non-technical stakeholders:
 * **Performance Outliers:** The project highlights the contrast between extremely high-margin "safe seats" and razor-thin victory margins that decided the final tally.
 
 ---
-**Author:** [Your Name]  
+**Author:** IBAD REHMAN 
 **Project Type:** Data Science / Business Intelligence Portfolio
